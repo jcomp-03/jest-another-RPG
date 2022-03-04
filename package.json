@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jcomp-03/module-10-jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
